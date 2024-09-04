@@ -8,3 +8,6 @@ print("Your favorite holiday is " + holiday)
 #a sentence
 print("The day is " + day + " and your favorite holiday is " + holiday)
 #making a change to the file
+#string slicing
+word = "hello"
+print(word[1:4]) 
